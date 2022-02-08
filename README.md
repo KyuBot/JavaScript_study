@@ -11,5 +11,5 @@
 
 
 
-### => 더 편한 환경에서 하려면 codesandbox
+### => 더 편한 환경에서 하려면 CodeSandbox
 
